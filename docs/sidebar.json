@@ -1,6 +1,7 @@
 {
   "embedding_gym": {
     "Overview": "/",
-    "Title": "/core"
+    "Title": "/core",
+    "Embedding Gym bookshelf": "/bookshelf"
   }
 }

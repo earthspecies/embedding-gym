@@ -12,6 +12,9 @@ entries:
     - output: web,pdf
       title: Title
       url: /core
+    - output: web,pdf
+      title: Embedding Gym bookshelf
+      url: /bookshelf
     output: web
     title: embedding_gym
   output: web
