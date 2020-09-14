@@ -2,9 +2,9 @@
 
 __all__ = ["index", "modules", "custom_doc_links", "git_url"]
 
-index = {}
+index = {"Embeddings": "01_goodness_of_monolingual_embeddings.ipynb"}
 
-modules = []
+modules = ["core.py"]
 
 doc_url = "https://fastai.github.io/embedding_gym/"
 
