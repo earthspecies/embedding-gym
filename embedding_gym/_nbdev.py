@@ -3,6 +3,7 @@
 __all__ = ["index", "modules", "custom_doc_links", "git_url"]
 
 index = {"Embeddings": "01_goodness_of_monolingual_embeddings.ipynb",
+         "evaluate_monolingual_embeddings": "01_goodness_of_monolingual_embeddings.ipynb",
          "Dictionary": "02_goodness_of_embeddings_across_languages.ipynb"}
 
 modules = ["core.py"]

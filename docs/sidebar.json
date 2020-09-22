@@ -1,7 +1,7 @@
 {
   "embedding_gym": {
     "Overview": "/",
-    "Title": "/core",
-    "Embedding Gym bookshelf": "/bookshelf"
+    "Title": "training_our_own_embeddings.html",
+    "Embedding Gym bookshelf": "bookshelf.html"
   }
 }

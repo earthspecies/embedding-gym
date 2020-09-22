@@ -11,10 +11,10 @@ entries:
       url: /
     - output: web,pdf
       title: Title
-      url: /core
+      url: training_our_own_embeddings.html
     - output: web,pdf
       title: Embedding Gym bookshelf
-      url: /bookshelf
+      url: bookshelf.html
     output: web
     title: embedding_gym
   output: web
